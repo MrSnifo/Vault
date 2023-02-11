@@ -5,7 +5,7 @@ Create and edit notes quickly and access them from any server you are a member o
 Easily collaborate with others by sharing and editing notes, making it perfect for teams or users who use multiple servers.
 
 [![Github](https://img.shields.io/badge/Github-MrSniFo-blue.svg)](https://github.com/MrSniFo)
-[![Discord](https://img.shields.io/badge/Shoppy-SniFo-blue.svg)](https://discord.gg/hH4ZkNg6cA)
+[![Discord](https://img.shields.io/badge/Discord-Server-blue.svg)](https://discord.gg/hH4ZkNg6cA)
 [![Shoppy](https://img.shields.io/badge/Shoppy-SniFo-blue.svg)](https://shoppy.gg/@snifo)
 
 
